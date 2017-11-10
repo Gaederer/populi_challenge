@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopuliChallenge</string>
+
+    <string name="error_loading">Unable to load countries</string>
+</resources>
